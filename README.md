@@ -23,15 +23,15 @@ A implementação do interpretador utiliza estruturas de dados básicas em C e m
 
 - Funções para Comandos: 
 
-  - comandoUSE: Simula a abertura de uma tabela. 
+  - comando USE: Simula a abertura de uma tabela. 
 
-  - comandoLIST: Exibe todos os registros ativos. 
+  - comando LIST: Exibe todos os registros ativos. 
 
-  - comandoAPPEND: Adiciona um novo registro. 
+  - comando APPEND: Adiciona um novo registro. 
 
-  - comandoREPLACE: Atualiza o nome de um registro específico. 
+  - comando REPLACE: Atualiza o nome de um registro específico. 
 
-  - comandoDELETE: Marca um registro como excluído. 
+  - comando DELETE: Marca um registro como excluído. 
 
 - Interpretação e Execução: A função interpretarComando analisa o comando de entrada e chama a função correspondente. 
 
