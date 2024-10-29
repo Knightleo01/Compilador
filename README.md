@@ -42,11 +42,11 @@ A implementação do interpretador utiliza estruturas de dados básicas em C e m
 
 1. USE: Abre uma tabela. 
 
-2. APPEND John: Adiciona um registro com o nome "John". 
+2. APPEND Joao: Adiciona um registro com o nome "Joao". 
 
 3. LIST: Exibe todos os registros. 
 
-4. REPLACE 1 Mary: Atualiza o nome do registro com ID 1 para "Mary". 
+4. REPLACE 1 Maria: Atualiza o nome do registro com ID 1 para "Maria". 
 
 5. DELETE 1: Marca o registro com ID 1 como excluído.
 
